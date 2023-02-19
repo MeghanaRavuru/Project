@@ -1,0 +1,9 @@
+pydub
+streamlit
+numpy
+pandas
+io
+BytesIO
+azure-cognitiveservices-speech
+warnings
+pickle
